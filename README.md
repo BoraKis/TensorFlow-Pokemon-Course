@@ -6,10 +6,11 @@ Predict Pokemon stats with the help of the TensorFlow library
 # Dataset
 You can access the dataset used in the study from the link [here](https://www.kaggle.com/alopez247/pokemon).
 
-# Requirements
-* Tensorflow
-* Keras
-* Numpy
-* Pandas
-* Sklearn
-* Matplotlib
+# Installation of Libraries
+` pip install tensorflow`
+` pip install pandas`
+` pip install numpy`
+` pip install pandas`
+` pip install -U scikit-learn`
+` python -m pip install -U matplotlib`
+` pip install keras`
