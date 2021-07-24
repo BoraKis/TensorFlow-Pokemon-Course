@@ -1,6 +1,6 @@
 # Get Started with TensorFlow
 These repositories were created for the Get Started with TensorFlow course on GitHub Learning Lab.
-Predict Pokemon stats with the help of the TensorFlow library
+Predict Pokemon stats with the help of the TensorFlow library.
 
 Reference = @everydeveloper
 
