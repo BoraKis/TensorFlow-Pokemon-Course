@@ -8,13 +8,13 @@ You can access the dataset used in the study from the link [here](https://www.ka
 
 # Installation of Libraries
 ```
- pip install tensorflow`
+pip install tensorflow`
 ```
 ```
- pip install pandas
+pip install pandas
 ```
 ```
- pip install numpy
+pip install numpy
 ```
 ```
 pip install pandas
